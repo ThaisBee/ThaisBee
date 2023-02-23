@@ -2,7 +2,6 @@
 
 I'm just a Bsc. Physicist who loves programming.
 
-- 🔭 I’m currently collaborating with Analysis Tool for Undergrad Students (ATUS)
 - 📫 How to reach me: thais.silva.abelha@gmail.com
 
 <!--
