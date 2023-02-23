@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm just a Bsc. Physicist who loves programming.
+
+🔭 I’m currently working on: Analysis Tool for Undergrad Students (ATUS)
+📫 How to reach me: thais.silva.abelha@gmail.com
+
 <!--
 **ThaisBee/ThaisBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
